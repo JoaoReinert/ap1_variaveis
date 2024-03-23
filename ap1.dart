@@ -13,9 +13,9 @@ void main() {
   print("Nome completo: $nome $sobrenome");
 
   if (idade >= 18) {
-    print("Idade: $idade, vc é de maior");
+    print("Idade: $idade, você é de maior");
   } else {
-    print("Idade: $idade, vc é de menor");
+    print("Idade: $idade, você é de menor");
   }
 
   if (situacao) {
